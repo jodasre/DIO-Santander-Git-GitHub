@@ -1,0 +1,11 @@
+O arquivo ZIPado contem arquivos de textos, em Word, com anotações das aulas e conteudo do Módulo I, desde a introdução do bootcamp Spread e aula de Git/GitHub.
+
+Este é um desafio de criação e familiarização com o GitHub.
+
+Esta é uma atualização do repositório já criado no GitHub.
+
+nos próximos respositórios, serão carregados os projetos, conforme andamento de estudo do Bootcamp supracitado.
+
+At.te,
+
+Renan Jodas
